@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.ncredinburgh</groupId>
 	<artifactId>secure-tomcat-datasourcefactory</artifactId>
-	<version>0.3-SNAPSHOT</version>
+	<version>8.0-SNAPSHOT</version>
 
 	<name>Secure Tomcat DataSource Factory</name>
 	<description>A Tomcat DataSourceFactory that supports an encrypted password</description>
@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>tomcat-jdbc</artifactId>
-			<version>7.0.29</version>
+			<version>8.0.47</version>
 			<scope>provided</scope>
 		</dependency>
 
